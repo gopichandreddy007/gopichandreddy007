@@ -102,6 +102,7 @@ public class GopiChand {
 
 | Day | Project | Stack | Links |
 |:---:|---|---|---|
+| 6 | 🧠 **QuizMaster**: trivia quiz with timer, 50:50 & high scores | React · TypeScript · TanStack Query · Testing Library | [Live](https://gopichandreddy007.github.io/quiz-app/) · [Code](https://github.com/gopichandreddy007/quiz-app) |
 | 5 | 🍅 **Focus Tracker**: Pomodoro timer + habit streaks | React · TypeScript · Tailwind · Vitest | [Live](https://gopichandreddy007.github.io/focus-tracker/) · [Code](https://github.com/gopichandreddy007/focus-tracker) |
 | 4 | 🎬 **ShowFinder**: TV show search, cast & watchlist | React · React Router · Context API | [Live](https://gopichandreddy007.github.io/movie-search-app/) · [Code](https://github.com/gopichandreddy007/movie-search-app) |
 | 3 | 💰 **Expense Tracker**: income, expenses & spending chart | React · Vite · Recharts | [Live](https://gopichandreddy007.github.io/expense-tracker/) · [Code](https://github.com/gopichandreddy007/expense-tracker) |
