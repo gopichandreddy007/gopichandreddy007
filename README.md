@@ -67,6 +67,8 @@ public class GopiChand {
   <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 </p>
 
@@ -102,6 +104,7 @@ public class GopiChand {
 
 | Day | Project | Stack | Links |
 |:---:|---|---|---|
+| 7 | 📋 **Flowboard**: Kanban board with drag & drop, undo/redo | React · TypeScript · Zustand · dnd-kit | [Live](https://gopichandreddy007.github.io/kanban-board/) · [Code](https://github.com/gopichandreddy007/kanban-board) |
 | 6 | 🧠 **QuizMaster**: trivia quiz with timer, 50:50 & high scores | React · TypeScript · TanStack Query · Testing Library | [Live](https://gopichandreddy007.github.io/quiz-app/) · [Code](https://github.com/gopichandreddy007/quiz-app) |
 | 5 | 🍅 **Focus Tracker**: Pomodoro timer + habit streaks | React · TypeScript · Tailwind · Vitest | [Live](https://gopichandreddy007.github.io/focus-tracker/) · [Code](https://github.com/gopichandreddy007/focus-tracker) |
 | 4 | 🎬 **ShowFinder**: TV show search, cast & watchlist | React · React Router · Context API | [Live](https://gopichandreddy007.github.io/movie-search-app/) · [Code](https://github.com/gopichandreddy007/movie-search-app) |
